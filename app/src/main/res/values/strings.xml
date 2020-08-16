@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Add card</string>
+    <string name="FirstActivityName">Wallet</string>
+    <string name="SecondActivityName">Add Card</string>
+    <string name="Add_a_cardButton">+</string>
+    <string name="PaymentButton">Pay Now</string>
+    <color name="Mybule">#A62196F3</color>
+    <string name="CardNumber">Card Number</string>
+    <string name="ExpiryDate">Expiry Date</string>
+    <string name="radioButton">Radio</string>
+    <string name="AddToWalletButton">Add To Wallet</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="CardHolderName">Card Holder Name</string>
+    <string name="Transaction_Through_Selected_card_Account">Transaction Through Selected card Account</string>
+    <string name="cards">Cards</string>
+    <string name="paymentConfirmation">Payment Confirmation</string>
+
+</resources>
